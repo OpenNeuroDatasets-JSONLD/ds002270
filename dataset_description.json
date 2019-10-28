@@ -1,0 +1,18 @@
+{
+    "Name": "Viewing_food_cues",
+    "BIDSVersion": "1.0.2",
+    "License": "CCo",
+    "Authors": [
+        "Jean-Marie Bonny",
+        "Juliana Iranpour",
+        "Béatrice Claise"
+    ],
+    "Acknowledgements": "Cepia INRA department - Conseil régional Auvergne - European Funds for Regional Development",
+    "HowToAcknowledge": "Please cite  e0141358. doi:10.1371/journal.pone.0141358",
+    "Funding": [
+        "Contrat AIB 23000400",
+        "AIC AromaSalt"
+    ],
+    "ReferencesAndLinks": ["e0141358. doi:10.1371/journal.pone.0141358"],
+    "DatasetDOI": ""
+}
