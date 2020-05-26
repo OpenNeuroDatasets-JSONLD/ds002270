@@ -1,0 +1,5 @@
+{
+	"EchoTime1":	0.00520,
+	"EchoTime2":	0.00810,
+	"IntendedFor":	["func/sub-01_task-viewingfoodhighres_bold.nii.gz","func/sub-01_task-viewingfoodlowres_bold.nii.gz"]
+}
